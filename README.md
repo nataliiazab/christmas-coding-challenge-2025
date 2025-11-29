@@ -11,11 +11,11 @@ This is to learn algorithms and practice coding in **JavaScript** with one probl
 
 # 📅 WEEK 1 — Foundation
 
-## 🟦 Day 1 — Arrays
+## 🟦 Day 1 — Arrays - completed
 **Pattern:** Store and access elements in order.  
 **Problem:** [Two Sum](https://leetcode.com/problems/two-sum/)
 
-## 🟦 Day 2 — Hash Maps
+## 🟦 Day 2 — Hash Maps - completed
 **Pattern:** Store key → value pairs for fast lookup.  
 **Problem:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
