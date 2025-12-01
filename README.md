@@ -27,7 +27,7 @@ This is to learn algorithms and practice coding in **JavaScript** with one probl
 **Pattern:** Move two pointers to check or compare elements.  
 **Problem:** [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
-## 🟦 Day 4 — Sliding Window
+## 🟦 Day 4 — Sliding Window ✔️
 
 **Pattern:** Track a window in an array to find sum, max, or length ✔️
 **Problem:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
