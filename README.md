@@ -32,7 +32,7 @@ This is to learn algorithms and practice coding in **JavaScript** with one probl
 **Pattern:** Track a window in an array to find sum, max, or length ✔️
 **Problem:** [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 
-## 🟦 Day 5 — Stack
+## 🟦 Day 5 — Stack ✔️
 
 **Pattern:** LIFO structure, push and pop elements.  
 **Problem:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
