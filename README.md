@@ -37,7 +37,7 @@ This is to learn algorithms and practice coding in **JavaScript** with one probl
 **Pattern:** LIFO structure, push and pop elements.  
 **Problem:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-## 🟦 Day 6 — Binary Search
+## 🟦 Day 6 — Binary Search ✔️
 
 **Pattern:** Search in sorted array by halving range each time.  
 **Problem:** [Binary Search](https://leetcode.com/problems/binary-search/)
