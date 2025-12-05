@@ -42,9 +42,9 @@ This is to learn algorithms and practice coding in **JavaScript** with one probl
 **Pattern:** Search in sorted array by halving range each time.  
 **Problem:** [Binary Search](https://leetcode.com/problems/binary-search/)
 
-## 🟦 Day 7 — Review Day ✔️
+## 🟦 Day 7 — Revision Day ✔️
 
-Revise and summarize algorithms
+Revise applied patterns by summarising them with code examples to use for the next weeks.
 
 ---
 
