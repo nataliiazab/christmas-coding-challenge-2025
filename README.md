@@ -50,17 +50,17 @@ Revise applied patterns by summarising them with code examples to use for the ne
 
 # WEEK 2 — Revision & Repetition (Same Patterns, New Easy Problems)
 
-### 🟩 Day 8 — Arrays
+### 🟩 Day 8 — Arrays ✔️
 
 **Pattern:** Store and access elements in order  
 **Problem:** [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
 
-### 🟩 Day 9 — Hash Maps
+### 🟩 Day 9 — Hash Maps ✔️
 
 **Pattern:** Store key → value pairs for fast lookup  
 **Problem:** [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
-### 🟩 Day 10 — Two Pointers
+### 🟩 Day 10 — Two Pointers 
 
 **Pattern:** Move two pointers to compare or manipulate array ranges  
 **Problem:** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)

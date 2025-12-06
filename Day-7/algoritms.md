@@ -27,7 +27,19 @@ for (let i = 0; i < arr.length; i++) {
 // Count occurrences of each element
 const map = new Map();
 for (let i = 0; i < arr.length; i++) {
-  map.set(arr[i], (map.get(arr[i]) || 0) + 1);
+  map.set(arr[i], (map.get(arr[i]) || 0) + 1); // this is same as
+
+  // or using an object
+  // obj[arr[i]] = (obj[arr[i]] || 0) + 1
+}
+```
+
+// or using a plain object
+
+```js
+const obj = {};
+for (let i = 0; i < arr.length; i++) {
+  obj[arr[i]] = (obj[arr[i]] || 0) + 1;
 }
 ```
 
