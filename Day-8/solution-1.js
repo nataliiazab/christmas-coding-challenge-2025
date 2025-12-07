@@ -1,4 +1,4 @@
-// Basic array manipulation problem, no advanced algorithm needed.
+// Basic array manipulation problem, no advanced algorithm 
 
 const buildArray = function (nums) {
   // nums[0] -> 0 -> 0

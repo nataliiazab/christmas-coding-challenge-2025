@@ -60,7 +60,7 @@ Revise applied patterns by summarising them with code examples to use for the ne
 **Pattern:** Store key → value pairs for fast lookup  
 **Problem:** [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
-### 🟩 Day 10 — Two Pointers 
+### 🟩 Day 10 — Two Pointers ✔️
 
 **Pattern:** Move two pointers to compare or manipulate array ranges  
 **Problem:** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)

@@ -1,4 +1,4 @@
-## Algoritms used fot the previus six days
+## Algorithms used fot the previous six days
 
 ### Brute force
 

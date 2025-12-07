@@ -1,4 +1,4 @@
-// Hash Map Approach - the most efficient solution with O(n) time complexity. It uses a hash map to store the numbers and their indices as we iterate through the array.
+// Hash map approach
 
 const twoSum = function (nums, target) {
   const map = {};

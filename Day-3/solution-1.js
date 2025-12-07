@@ -1,4 +1,4 @@
-//  a straightforward solution with O(n) time complexity. It cleans the string and checks if it reads the same forwards and backwards.
+//  a straightforward solution which cleans the string and checks if it reads the same forwards and backwards.
 
 const isPalindrome = function(s) {
 const convertedString = s.toLowerCase().replace(/[^a-z0-9]/g, '');

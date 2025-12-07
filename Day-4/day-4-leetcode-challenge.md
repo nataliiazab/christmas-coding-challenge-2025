@@ -1,5 +1,5 @@
 
-## Maximum Average Subarray I - Task
+## Maximum average subarray I - Task
 
 You are given an integer array nums consisting of n elements, and an integer k.
 

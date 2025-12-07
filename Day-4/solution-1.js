@@ -1,5 +1,4 @@
-// Sliding Window Approach
-// This solution uses the sliding window technique to find the maximum average of any contiguous subarray of length k.
+// Sliding window approach
 const findMaxAverage = function(nums, k) {
     let windowSum = 0;
 
@@ -8,7 +7,7 @@ const findMaxAverage = function(nums, k) {
         windowSum += nums[i];
         }
 
-    let maxSum = windowSum;
+    let maxSum = windowSum;s
     
     for (let i = k; i < nums.length; i ++){
         windowSum += nums[i] - nums[i-k]

@@ -1,7 +1,4 @@
-// Hash Map Approach to solve the Contains Duplicate problem.
-// Time Complexity: O(n) — we scan the array once, and each lookup in a hash map is O(1).
-// Space Complexity: O(n) — in the worst case, all numbers are unique and stored in the map.
-
+// Hash map approach 
 const containsDuplicate = function(nums) {
 
   const map = {};

@@ -1,4 +1,4 @@
-// Hash Map approach with Map object
+// Hash map approach with map object
 
 const numJewelsInStones = function(jewels, stones) {
     const map = new Map();

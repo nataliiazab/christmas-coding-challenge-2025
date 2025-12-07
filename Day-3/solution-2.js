@@ -1,4 +1,4 @@
-// Two Pointer Approach - an efficient solution with O(n) time complexity. It uses two pointers to compare characters from both ends of the string, ignoring non-alphanumeric characters and case differences.
+// Two pointer approach
 
 const isPalindrome = function (s) {
   let left = 0;

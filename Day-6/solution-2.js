@@ -1,4 +1,4 @@
-// Binary search approach to find the index of a target value in a sorted array by repeatedly dividing the search interval in half.
+// Binary search approach 
 
 
 const search = function (nums, target) {

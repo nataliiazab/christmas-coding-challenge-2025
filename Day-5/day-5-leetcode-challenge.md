@@ -1,4 +1,4 @@
-## Valid Parentheses - Task
+## Valid parentheses - Task
 
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 

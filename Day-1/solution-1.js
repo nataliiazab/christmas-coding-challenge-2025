@@ -1,4 +1,4 @@
-// Brute Force Approach to solve the Two Sum problem. It has a time complexity of O(n^2) due to the nested loops. It checks all possible pairs of numbers to find the two that add up to the target.
+// Brute force approach
 
 
 const twoSum = function (nums, target) {
