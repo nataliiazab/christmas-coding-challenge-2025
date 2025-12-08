@@ -65,7 +65,7 @@ Revise applied patterns by summarising them with code examples to use for the ne
 **Pattern:** Move two pointers to compare or manipulate array ranges  
 **Problem:** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 
-### 🟩 Day 11 — Sliding Window
+### 🟩 Day 11 — Sliding Window ✔️
 
 **Pattern:** Adjust window to find sum, count, or longest substring  
 **Problem:** [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
@@ -82,9 +82,7 @@ Revise applied patterns by summarising them with code examples to use for the ne
 
 ### 🟩 Day 14 — Review Day
 
-Pick any problem from Day 8–13 to redo.
-
-
+Pick any problem from Day 8–13 to redo (potentially day 10 and 11 for extra practice).
 
 # WEEK 3 — Beginner Data Structures
 
