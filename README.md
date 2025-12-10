@@ -75,14 +75,14 @@ Revise applied patterns by summarising them with code examples to use for the ne
 **Pattern:** LIFO structure for parsing or tracking states  
 **Problem:** [Min Stack](https://leetcode.com/problems/min-stack/)
 
-### 🟩 Day 13 — Binary Search
+### 🟩 Day 13 — Binary Search ✔️
 
 **Pattern:** Halve search range on each step  
 **Problem:** [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
 ### 🟩 Day 14 — Review Day
 
-Pick any problem from Day 8–13 to redo (potentially day 10 and 11 for extra practice).
+Pick any problem from Day 8–13 to redo (potentially day12,  day 10 and 11 for extra practice).
 
 # WEEK 3 — Beginner Data Structures
 
