@@ -80,9 +80,9 @@ Revise applied patterns by summarising them with code examples to use for the ne
 **Pattern:** Halve search range on each step  
 **Problem:** [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
 
-### 🟩 Day 14 — Review Day
+### 🟩 Day 14 — Review Day ✔️
 
-Pick any problem from Day 8–13 to redo (potentially day12,  day 10 and 11 for extra practice).
+Pick any problem from Leetcode.
 
 # WEEK 3 — Beginner Data Structures
 
