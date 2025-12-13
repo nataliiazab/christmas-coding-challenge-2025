@@ -70,7 +70,7 @@ Revise applied patterns by summarising them with code examples to use for the ne
 **Pattern:** Adjust window to find sum, count, or longest substring  
 **Problem:** [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-### 🟩 Day 12 — Stack
+### 🟩 Day 12 — Stack ✔️
 
 **Pattern:** LIFO structure for parsing or tracking states  
 **Problem:** [Min Stack](https://leetcode.com/problems/min-stack/)
@@ -86,12 +86,12 @@ Pick any problem from Leetcode.
 
 # WEEK 3 — Beginner Data Structures
 
-## 🟩 Day 15 — Linked List
+## 🟩 Day 15 — Linked List ✔️
 
 **Pattern:** Nodes connected sequentially, good for traversal.  
 **Problem:** [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
-## 🟩 Day 16 — Tree (DFS)
+## 🟩 Day 16 — Tree (DFS) ✔️
 
 **Pattern:** Explore each branch fully before moving to the next.  
 **Problem:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
