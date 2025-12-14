@@ -96,7 +96,7 @@ Pick any problem from Leetcode.
 **Pattern:** Explore each branch fully before moving to the next.  
 **Problem:** [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 
-## 🟩 Day 17 — Tree (BFS)
+## 🟩 Day 17 — Tree (BFS) ✔️
 
 **Pattern:** Explore level by level using a queue.  
 **Problem:** [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
