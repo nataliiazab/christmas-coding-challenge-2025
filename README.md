@@ -101,7 +101,7 @@ Pick any problem from Leetcode.
 **Pattern:** Explore level by level using a queue.  
 **Problem:** [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-## 🟩 Day 18 — Graphs
+## 🟩 Day 18 — Graphs 
 
 **Pattern:** Nodes connected with edges, traverse using BFS/DFS.  
 **Problem:** [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
