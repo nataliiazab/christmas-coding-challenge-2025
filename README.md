@@ -101,12 +101,12 @@ Pick any problem from Leetcode.
 **Pattern:** Explore level by level using a queue.  
 **Problem:** [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-## 🟩 Day 18 — Graphs 
+## 🟩 Day 18 — Graphs ✔️
 
 **Pattern:** Nodes connected with edges, traverse using BFS/DFS.  
 **Problem:** [Number of Provinces](https://leetcode.com/problems/number-of-provinces/)
 
-## 🟩 Day 19 — Strings
+## 🟩 Day 19 — Strings ✔️
 
 **Pattern:** Scan, compare, or count characters.  
 **Problem:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
@@ -118,7 +118,7 @@ Pick any problem from Leetcode.
 
 ## 🟩 Day 21 — Review Day
 
-Pick any problem from Day 15–21 to redo.
+Redo problem from Day 19 
 
 ---
 
