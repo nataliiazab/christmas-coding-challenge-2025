@@ -111,14 +111,14 @@ Pick any problem from Leetcode.
 **Pattern:** Scan, compare, or count characters.  
 **Problem:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
-## 🟩 Day 20 — Dynamic Programming
+## 🟩 Day 20 — Dynamic Programming ✔️
 
 **Pattern:** Solve problem by storing results of subproblems.  
 **Problem:** [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 
 ## 🟩 Day 21 — Review Day
 
-Redo problem from Day 19 
+Redo problem from Day 19
 
 ---
 
