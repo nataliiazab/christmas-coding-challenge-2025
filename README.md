@@ -118,7 +118,7 @@ Pick any problem from Leetcode.
 
 ## 🟩 Day 21 — Review Day
 
-Redo problem from Day 19
+Redo problem from Day 19 ✔️
 
 ---
 
