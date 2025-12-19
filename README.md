@@ -84,6 +84,7 @@ Revise applied patterns by summarising them with code examples to use for the ne
 
 Pick any problem from Leetcode.
 
+
 # WEEK 3 — Beginner Data Structures
 
 ## 🟩 Day 15 — Linked List ✔️
@@ -121,30 +122,65 @@ Pick any problem from Leetcode.
 Redo problem from Day 19 ✔️
 
 ---
+# WEEK 4 — Beginner data structures - review & repetition
 
-# WEEK 4 — Light Advanced Patterns - stretching tasks to complete after challenge
+## 🟩 Day 22 — Linked List (Review) ✔️
 
-## 🟥 Day 22 — Greedy
+**Pattern**: Sequential node traversal and pointer manipulation
+**Problem:** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+## 🟩 Day 23 — Tree (DFS) (Review)
+**Pattern:**: Depth-first traversal (recursive or iterative)
+**Problem**: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+## 🟩 Day 24 — Tree (BFS) Review
+
+**Pattern**: Level-order traversal using a queue
+**Problem**: https://leetcode.com/problems/average-of-levels-in-binary-tree/
+
+## 🟩 Day 25 — Graphs Review
+
+**Pattern**: Graph traversal using BFS or DFS
+**Problem**: https://leetcode.com/problems/find-the-town-judge/
+
+
+## 🟩 Day 26 — Strings Review
+**Pattern**: Character scanning and frequency counting
+**Problem**: https://leetcode.com/problems/valid-anagram/
+
+## 🟩 Day 27 — Dynamic Programming Review
+
+**Pattern**: Store and reuse results of overlapping subproblems
+**Problem**: https://leetcode.com/problems/fibonacci-number/
+
+## 🟩 Day 28 — Review Day
+
+Redo any problem from week 3 or week 4 && summarise learned patterns
+
+---
+# Light Advanced Patterns - stretching tasks to complete after challenge
+
+## 🟥 Greedy
 
 **Pattern:** Make the locally optimal choice hoping for global optimum.  
 **Problem:** [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 
-## 🟥 Day 23 — Heap / Priority Queue
+## 🟥 Heap / Priority Queue
 
 **Pattern:** Quickly access smallest/largest element.  
 **Problem:** [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 
-## 🟥 Day 24 — Backtracking
+## 🟥 Backtracking
 
 **Pattern:** Build solutions step-by-step, undo when stuck.  
 **Problem:** [Subsets](https://leetcode.com/problems/subsets/)
 
-## 🟥 Day 25 — Bit Manipulation
+## 🟥 Bit Manipulation
 
 **Pattern:** Use binary operations for fast calculations.  
 **Problem:** [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 
-## 🟥 Day 26 — Final Challenge
+## 🟥 Final Challenge
 
 **Pattern:** Apply multiple learned patterns.  
 **Problem:** [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
