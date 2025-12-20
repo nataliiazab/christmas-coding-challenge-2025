@@ -129,7 +129,7 @@ Redo problem from Day 19 ✔️
 **Pattern**: Sequential node traversal and pointer manipulation
 **Problem:** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
-## 🟩 Day 23 — Tree (DFS) (Review)
+## 🟩 Day 23 — Tree (DFS) (Review) ✔️
 **Pattern:**: Depth-first traversal (recursive or iterative)
 **Problem**: https://leetcode.com/problems/minimum-depth-of-binary-tree/
 
